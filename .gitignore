@@ -1,3 +1,7 @@
+*.CR2
+*.JPG
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
